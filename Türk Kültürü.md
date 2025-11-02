@@ -1,4 +1,4 @@
-# Küt inancı nedir 
+# Kut inancı nedir 
 - küt inancı devleti yönetme yetkisini tanrı tarafından verildiğine inanılır. 
 # Turklerde Devleti Oluşturan 4 Unsur
 - Halk 
