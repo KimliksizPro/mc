@@ -1,4 +1,4 @@
-# Temel Terimler
+# **Temel Terimler**
 ## Çözünürlük
 - Bir ekranın yatay ve dikey eksenlerde sahip olduğu piksel sayısına çözünürlük denir.
 ## DPI
@@ -11,7 +11,7 @@
 ## Piksel
 - Görüntüyü oluşturan en küçük birimdir.
 
-# Kısayollar
+# **Kısayollar**
 ## Kaydetme
 - Control + S
 ## Açma
@@ -24,7 +24,7 @@
 - Control + D
 ## Yeni Dosya Oluştur
 - Control + N 
-# Araçlar
+# **Araçlar**
 ## Temel Araçlar
 ### Damga aracı
 - Görüntünün bir kısmını kopyalayıp başka bir yere uygular.
