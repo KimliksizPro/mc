@@ -53,3 +53,5 @@ değişimler; memurların, işçilerin, köylülerin, kasaba ve kenar semtlerdek
 ## Diyalog
 - İki kişi arasında olan konuşma
 # CÜMLENİN ÖGELERİ ÇALIŞ
+- 2 cümle var tamlamalara dikkat
+- Özne kısa ondan sonraki öge baya uzun
